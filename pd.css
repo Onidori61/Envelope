@@ -90,7 +90,7 @@ body {
   align-items: center; /* Centraliza horizontalmente */
   font-family: Roboto; /* Define a fonte */
   color: #929292; /* Define a cor do texto */
-  padding: 30px; /* Adiciona um pouco de espaço interno */
+  padding: 15px; /* Adiciona um pouco de espaço interno */
   max-height: 300px; /* Define uma altura máxima que se ajuste ao card */
   overflow-y: auto; /* Adiciona rolagem vertical se o texto exceder a altura */
 }
